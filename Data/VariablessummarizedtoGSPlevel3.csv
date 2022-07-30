@@ -1,0 +1,46 @@
+﻿GSP_name,Basin_number,COB,SJV,Basin_prioritization_score,Number_GSA_authors_unique,Number_GSAs_covered,Number_GSPs_subbasin,Number_agencies_ingovagreements_total,IsthereacollabGSAauthor,Count_GSAauthors_collab,Number_boardseats,Number_boardseats_DAC,Number_boardseats_DW,Number_directors_women,Number_directors_nonwhite,Committee_any,Count_GSAswithcommittee,Committee_DW_any,Count_committeewith_DW,Committee_DAC_any,Committee_DAC_any_TEST,Count_committeewith_DAC_NEEDSfixin,Number_DACplaces_GSPassessment,EJ_Kdself,Summed_EJ_Engagement,CWC,SHE,LCJA,Facilitation_received_dierct,Facilitation_orcoordinationsupport_recieved,Count_letters,Prop1Cat1_TA,Prop1Cat1_project,County,County_ag_profits_2019,Combined_risk_percentil
+Santa Cruz Mid-County,3-001,Yes,No,40,1,1,1,4,Yes,1,11,0,9,1,0,Yes,1,Yes,1,NA,No,0,0,0,0,0,0,0,0,0,1,0,0,Santa Cruz,620820000,65.45
+180/400 ft Aquifer,3-004.01,Yes,No,40,3,3,1,10,Yes,1,21,1,8,7,5,Yes,1,Yes,1,Yes,Yes,1,3,0,3,3,0,0,1,1,3,0,0,Monterey,4426625000,76.33
+Paso Robles Area,3-004.06,Yes,No,40,4,4,1,4,No,0,20,5,10,5,4,No,0,No,0,No,No,0,2,0,0,0,0,0,1,1,1,0,0,San Luis Obispo,979009000,28.77
+Cuyama Valley,3-013,Yes,No,40,1,1,1,6,Yes,1,11,1,1,2,1,Yes,1,Yes,1,Yes,Yes,1,2,0,1,1,0,0,0,0,0,0,1,Santa Barbara,1622026000,8.61
+Oxnard,4-004.02,Yes,No,40,1,3,1,14,Yes,1,5,0,1,0,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Ventura,1998387000,39.61
+Pleasant Valley,4-006,Yes,No,40,1,3,1,14,Yes,1,5,0,1,0,0,No,0,No,0,No,No,0,1,0,0,0,0,0,0,0,1,0,0,Ventura,1998387000,20.32
+Las Posas,4-008,No,No,27,1,3,1,14,Yes,1,5,0,1,0,0,No,0,No,0,No,No,0,1,0,0,0,0,0,0,0,0,0,0,Ventura,1998387000,17.87
+Yuba,5-021.60 & 5-021.61,No,No,19.25,3,4,1,3,No,0,17,5,5,2,2,No,0,No,0,No,No,0,5,0,0,0,0,0,1,1,0,0,1,Yuba,231990000,63.78
+Eastern San Joaquin,5-022.01,Yes,Yes,40,16,16,1,22,Yes,2,97,12,42,17,15,No,0,No,0,No,No,0,17,0,0,0,0,0,1,1,2,0,0,San Joaquin,2638145000,47.96
+Merced,5-022.04,Yes,Yes,40,3,3,1,16,Yes,2,18,5,6,2,7,Yes,0,Yes,0,Yes,Yes,0,12,1,6,0,3,3,1,1,4,1,1,Merced,3270959000,41.87
+Chowchilla,5-022.05,Yes,Yes,40,4,4,1,4,No,0,20,0,0,2,6,Yes,1,Yes,1,Yes,Yes,1,2,0,0,0,0,0,0,0,1,1,1,Madera,1998826000,36.76
+Gravelly Ford,5-022.06,Yes,Yes,40,1,1,4,1,No,0,5,0,0,1,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Madera,1998826000,53.8
+Madera subbasin joint ,5-022.06,Yes,Yes,40,4,4,4,4,No,0,20,5,5,2,6,Yes,1,Yes,1,Yes,Yes,1,6,1,6,0,3,3,1,1,1,1,1,Madera,1998826000,62.66
+New Stone ,5-022.06,Yes,Yes,40,1,1,4,1,No,0,5,0,0,1,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Madera,1998826000,52.96
+Root Creek Water District,5-022.06,Yes,Yes,40,1,1,4,1,No,0,7,0,0,3,1,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Madera,1998826000,77.78
+Aliso Water District,5-022.07,Yes,Yes,40,1,1,6,1,No,0,5,0,0,0,1,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,1,0,1,0,Madera,1998826000,53.04
+County of Fresno,5-022.07,Yes,Yes,40,1,2,6,1,No,0,5,0,0,0,2,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,1,1,1,0,Fresno,7714540000,14.27
+Farmers Water District,5-022.07,Yes,Yes,40,1,1,6,1,No,0,3,0,0,0,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,1,0,1,0,Fresno,7714540000,79
+Grasslands,5-022.07,Yes,Yes,40,2,2,6,3,Yes,1,10,0,0,0,3,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,1,1,1,0,Merced,3270959000,30.62
+Northern and Central Delta Mendota,5-022.07,Yes,Yes,40,8,8,6,20,Yes,3,55,1,6,6,13,No,0,No,0,No,No,0,7,0,0,0,0,0,0,1,1,1,1,Stanislaus,3526856000,25.9
+San Joaquin River Exchange Contractors,5-022.07,Yes,Yes,40,11,11,6,14,Yes,1,54,20,30,7,18,Yes,1,Yes,1,Yes,Yes,1,12,0,0,0,0,0,0,1,0,1,0,Merced,3270959000,28.12
+Central Kings,5-022.08,Yes,Yes,40,1,1,7,1,No,0,5,0,0,0,0,No,0,No,0,No,No,0,5,1,2,0,0,2,0,1,7,1,0,Fresno,7714540000,88.61
+James,5-022.08,Yes,Yes,40,1,1,7,2,Yes,1,5,0,0,0,1,Yes,1,Yes,1,Yes,Yes,1,1,0,0,0,0,0,0,1,0,0,0,Fresno,7714540000,38.66
+Kings River East,5-022.08,Yes,Yes,40,1,1,7,15,Yes,1,7,2,2,1,2,No,0,No,0,No,No,0,13,1,2,2,0,0,0,1,2,1,0,Tulare,7508852000,80.1
+McMullin Area,5-022.08,Yes,Yes,40,1,1,7,3,Yes,1,5,0,0,0,3,Yes,1,Yes,1,Yes,Yes,1,1,0,0,0,0,0,0,1,0,0,0,Fresno,7714540000,71.67
+North Fork Kings,5-022.08,Yes,Yes,40,1,1,7,12,Yes,1,7,1,1,0,1,Yes,1,Yes,1,Yes,Yes,1,3,1,6,0,3,3,0,1,4,1,0,Fresno,7714540000,64.92
+North Kings,5-022.08,Yes,Yes,40,1,1,7,10,Yes,1,7,1,3,0,4,No,0,No,0,No,No,0,9,1,6,0,3,3,1,1,6,1,1,Fresno,7714540000,82.03
+South Kings,5-022.08,Yes,Yes,40,1,1,7,5,Yes,1,5,4,5,1,3,No,0,No,0,No,No,0,4,0,1,0,1,0,0,1,1,1,0,Fresno,7714540000,92.05
+Westside,5-022.09,Yes,Yes,40,1,2,1,1,No,0,9,0,0,0,0,No,0,No,0,No,No,0,6,1,3,0,0,3,0,0,3,1,1,Fresno,7714540000,10.27
+East Kaweah,5-022.11,Yes,Yes,40,1,1,3,7,Yes,1,11,1,1,1,1,Yes,1,Yes,1,Yes,Yes,1,8,1,8,2,3,3,0,1,5,1,0,Tulare,7508852000,77.03
+Greater Kaweah,5-022.11,Yes,Yes,40,1,1,3,6,Yes,1,9,1,2,0,1,Yes,1,Yes,1,Yes,Yes,1,9,1,6,0,3,3,0,1,4,1,0,Tulare,7508852000,78.5
+Mid-Kaweah,5-022.11,Yes,Yes,40,1,1,3,3,Yes,1,6,2,4,0,2,Yes,1,Yes,1,Yes,Yes,1,3,1,4,0,3,1,0,1,10,1,0,Tulare,7508852000,77.31
+Tulare Lake,5-022.12,Yes,Yes,40,5,5,1,26,Yes,5,26,2,3,0,3,Yes,1,No,0,No,No,0,6,0,0,0,0,0,0,0,1,0,0,Kings,2187693000,31.25
+Alpaugh,5-022.13,Yes,Yes,40,1,1,6,3,Yes,1,5,2,2,1,1,No,0,No,0,No,No,0,1,0,0,0,0,0,0,0,1,1,0,Tulare,7508852000,9.96
+Delano-Earlimart Irrigation District,5-022.13,Yes,Yes,40,1,1,6,1,No,0,5,0,0,0,0,Yes,1,Yes,1,Yes,Yes,1,3,1,0,0,0,0,0,0,0,0,0,Tulare,7508852000,60.11
+Eastern Tule,5-022.13,Yes,Yes,40,1,1,6,8,Yes,1,9,1,1,0,1,Yes,1,Yes,1,Yes,Yes,1,6,1,4,3,1,0,0,0,3,1,0,Tulare,7508852000,45.45
+Lower Tule River,5-022.13,Yes,Yes,40,1,1,6,1,No,0,5,0,0,0,1,Yes,1,No,0,No,No,0,3,1,2,2,0,0,0,0,3,1,0,Tulare,7508852000,64.15
+Pixley Irrigation District,5-022.13,Yes,Yes,40,1,1,6,1,No,0,5,0,0,0,1,Yes,1,No,0,No,No,0,2,1,2,2,0,0,0,0,1,1,0,Tulare,7508852000,56.63
+Tri-County Water Agency,5-022.13,Yes,Yes,40,1,1,6,4,Yes,1,5,0,0,0,1,Yes,1,No,0,No,No,0,1,0,0,0,0,0,0,0,1,0,0,Tulare,7508852000,27.39
+Buena Vista,5-022.14,Yes,Yes,40,1,1,5,1,No,0,5,0,0,0,0,No,0,No,0,No,No,0,1,0,0,0,0,0,0,0,0,0,0,Kern,7692667000,64.23
+Henry Miller Water District,5-022.14,Yes,Yes,40,1,1,5,1,No,0,5,0,0,0,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Kern,7692667000,52.26
+Kern Groundwater Authoriy,5-022.14,Yes,Yes,40,6,6,5,22,Yes,1,45,7,7,3,7,No,0,No,0,No,No,0,21,0,2,2,0,0,1,1,5,1,0,Kern,7692667000,48.26
+Kern River,5-022.14,Yes,Yes,40,2,2,5,6,Yes,1,8,5,6,0,2,No,0,No,0,No,No,0,6,1,3,0,1,2,0,0,1,1,0,Kern,7692667000,70.91
+Olcese Water District,5-022.14,Yes,Yes,40,1,1,5,1,No,0,5,0,0,0,0,No,0,No,0,NA,No,0,0,0,0,0,0,0,0,0,0,0,0,Kern,7692667000,4.22
+Indian Wells Valley,6-054,Yes,No,40,1,1,1,5,Yes,1,5,0,2,0,0,Yes,1,Yes,1,Yes,Yes,1,2,0,0,0,0,0,1,1,1,0,1,Kern,7692667000,14.9
